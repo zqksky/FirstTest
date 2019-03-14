@@ -1,0 +1,9 @@
+E:\Project\C#\FirstTest\FirstTest\bin\Debug\FirstTest.exe.config
+E:\Project\C#\FirstTest\FirstTest\bin\Debug\FirstTest.exe
+E:\Project\C#\FirstTest\FirstTest\bin\Debug\FirstTest.pdb
+E:\Project\C#\FirstTest\FirstTest\obj\Debug\FirstTest.csprojAssemblyReference.cache
+E:\Project\C#\FirstTest\FirstTest\obj\Debug\FirstTest.Properties.Resources.resources
+E:\Project\C#\FirstTest\FirstTest\obj\Debug\FirstTest.csproj.GenerateResource.cache
+E:\Project\C#\FirstTest\FirstTest\obj\Debug\FirstTest.csproj.CoreCompileInputs.cache
+E:\Project\C#\FirstTest\FirstTest\obj\Debug\FirstTest.exe
+E:\Project\C#\FirstTest\FirstTest\obj\Debug\FirstTest.pdb
